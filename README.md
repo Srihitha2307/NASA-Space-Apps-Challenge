@@ -7,6 +7,7 @@ An interactive 3D web guide that lets kids explore 15 abandoned spacecraft on th
 
 **Live app:** `<paste your public link>`
 **Demo (ppt):** https://docs.google.com/presentation/d/1oSpuAnil3wMMlaEvDuGvE27btUT0BOEM/edit?usp=sharing&ouid=105524767659124107532&rtpof=true&sd=true
+
 **Full walkthrough (7 min):** 
 
 ## What it does
