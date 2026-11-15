@@ -8,7 +8,9 @@ An interactive 3D web guide that lets kids explore 15 abandoned spacecraft on th
 **Live app:** `<paste your public link>`
 **Demo (ppt):** https://docs.google.com/presentation/d/1oSpuAnil3wMMlaEvDuGvE27btUT0BOEM/edit?usp=sharing&ouid=105524767659124107532&rtpof=true&sd=true
 
-**Full walkthrough (7 min):** 
+**Full walkthrough :** https://youtu.be/wu-qC-_o4XY
+
+**Project video:** https://youtu.be/0EtDlt8f3Pg
 
 ## What it does
 - **World to mission zoom:** choose the Moon, Mars or Deep Space, then dive into a mission.
